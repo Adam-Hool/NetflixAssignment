@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Netflix
 {
-    class Catalog 
+    public class Catalog 
     {
         public List<Title> myCatalogList;
         public Catalog(List<Title>catalogList) 

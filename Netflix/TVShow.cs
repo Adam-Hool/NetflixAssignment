@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Netflix
 {
-    class TVShow : Title, IEnumerable
+    public class TVShow : Title, IEnumerable
     {
 
         public List<Genres> TVGenreList;

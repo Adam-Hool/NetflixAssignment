@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Netflix
 {
-    class Movie : Title 
+    public class Movie : Title 
     {
         public List<Genres> MovieGenreList;
         public int MovieLength;

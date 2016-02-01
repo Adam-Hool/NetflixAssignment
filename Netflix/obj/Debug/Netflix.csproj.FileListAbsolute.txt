@@ -1,1 +1,7 @@
 C:\devcodecamp\devCodeCampProjects\RockPaperScissors\Netflix\Netflix\bin\Debug\Netflix.exe.config
+C:\devcodecamp\devCodeCampProjects\Netflix\NetflixAssignment\Netflix\bin\Debug\Netflix.exe.config
+C:\devcodecamp\devCodeCampProjects\Netflix\NetflixAssignment\Netflix\bin\Debug\Netflix.exe
+C:\devcodecamp\devCodeCampProjects\Netflix\NetflixAssignment\Netflix\bin\Debug\Netflix.pdb
+C:\devcodecamp\devCodeCampProjects\Netflix\NetflixAssignment\Netflix\obj\Debug\Netflix.csprojResolveAssemblyReference.cache
+C:\devcodecamp\devCodeCampProjects\Netflix\NetflixAssignment\Netflix\obj\Debug\Netflix.exe
+C:\devcodecamp\devCodeCampProjects\Netflix\NetflixAssignment\Netflix\obj\Debug\Netflix.pdb

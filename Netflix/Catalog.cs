@@ -6,19 +6,23 @@ using System.Threading.Tasks;
 
 namespace Netflix
 {
-    class Catalog
+    class Catalog 
     {
-        public List<Genres> myCatalogList;
-        public Catalog(List <Genres>catalogList)
+        public List<Title> myCatalogList;
+        public Catalog(List<Title>catalogList) 
         {
             this.myCatalogList = catalogList;
         }
 
-        public void AddToGenreList(List <Genres>myGenreList)
+        public void AddEntertainmentToGenreList(List<Title>myGenreList)
         {
             this.myCatalogList.AddRange(myGenreList);
         }
-
-       
+    
+       //public List<Genres> GetGenreList()
+       // {
+       //     return this.myCatalogList;
+       // }
+    
     }
 }

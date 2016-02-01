@@ -8,8 +8,9 @@ namespace Netflix
 {
     class Episode : Title
     {
-        public Episode(string title, List<Genres> genreList, List<string> episodes) : base(title, genreList)
+        public Episode(string title, List<Genres> genreList, int rating) : base(title, rating)
         {
+            this.title = title;
         }
     }
 }
